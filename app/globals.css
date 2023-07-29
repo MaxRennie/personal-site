@@ -19,9 +19,20 @@
 body {
   color: rgb(var(--foreground-rgb));
   background: white;
+  min-width:fit-content;
 }
 
 @font-face {
   font-family: "Staatliches";
   src: url("/fonts/Staatliches-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Spline Sans";
+  src: url("/fonts/SplineSans-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Spline Sans Bold";
+  src: url("/fonts/SplineSans-Bold.ttf");
 }

@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Rhea",
+    "featured project": true,
+    "category": "Graphics",
+    "sub-categories": {
+      "brand design": true,
+      "brand assets": true,
+      "illustration": true,
+      "logo design": true,
+      "print design": true,
+      "typography": true,
+      "ux/ui design": true,
+      "web design": true,
+      "web development": false,
+      "wordpress": false,
+      "react": false,
+      "javascript": false,
+      "node.js": false,
+      "Sass": false,
+      "Figma": true,
+      "Tailwind": false,
+      "Bootstrap": false
+    },
+    "description": "doloribus at sed quis culpa deserunt consectetur qui praesentium\naccusamus fugiat dicta\nvoluptatem rerum ut voluptate autem\nvoluptatem repellendus aspernatur dolorem in",
+    "featimage": "/public/web1.png",
+    "images": ["", ""],
+    "website": ""
+  },
+  {
+    "id": 2,
+    "name": "Rhea",
+    "featured project": true,
+    "category": "Graphics",
+    "sub-categories": {
+      "brand design": true,
+      "brand assets": true,
+      "illustration": true,
+      "logo design": true,
+      "print design": true,
+      "typography": true,
+      "ux/ui design": true,
+      "web design": true,
+      "web development": false,
+      "wordpress": false,
+      "react": false,
+      "javascript": false,
+      "node.js": false,
+      "Sass": false,
+      "Figma": true,
+      "Tailwind": false,
+      "Bootstrap": false
+    },
+    "description": "doloribus at sed quis culpa deserunt consectetur qui praesentium\naccusamus fugiat dicta\nvoluptatem rerum ut voluptate autem\nvoluptatem repellendus aspernatur dolorem in",
+    "featimage": [
+      "/rhea/web1.png",
+      "Rhea Featured Image"
+    ],
+    "images": [
+      {
+        "link": "",
+        "alt": ""
+      },
+      {
+        "link": "",
+        "alt": ""
+      }
+    ],
+    "website": ""
+  }
+]

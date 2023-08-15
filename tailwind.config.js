@@ -1,5 +1,5 @@
 /** @type {import('tailwindcss').Config} */
-const colors = require('tailwindcss/colors')
+const colors = import('tailwindcss/colors')
 
 module.exports = {
   mode: "jit",
@@ -41,6 +41,6 @@ module.exports = {
     },
   },
   plugins: [
-    require("flowbite/plugin")
+    import("flowbite/plugin")
   ],
 };

@@ -1,9 +1,11 @@
 name: Deploy new release
 
+
 on:
-  push:
-    tags:
-      - 'v*'
+  workflow_dispatch
+  # push:
+  #   tags:
+  #     - 'v*'
 
 jobs:
   deploy:

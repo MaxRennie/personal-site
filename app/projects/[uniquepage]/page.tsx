@@ -67,7 +67,7 @@ export default function UniquePage({
               <p>{project.name}</p>
               <p>{project.description}</p>
               <p>{project.category}</p>
-              { project.subcategories.branddesign && (<span>Brand Design</span>)}
+              {/* { project.subcategories.branddesign && (<span>Brand Design</span>)}
               { project.subcategories.brandassets && (<span>Brand Assets</span>)}
               { project.subcategories.illustration && (<span>Illustration</span>)}
               { project.subcategories.logodesign && (<span>Logo Design</span>)}
@@ -83,7 +83,7 @@ export default function UniquePage({
               { project.subcategories.sass && (<span>Sass</span>)}
               { project.subcategories.figma && (<span>Figma</span>)}
               { project.subcategories.tailwind && (<span>Tailwind</span>)}
-              { project.subcategories.bootstrap && (<span>Bootstrap</span>)}
+              { project.subcategories.bootstrap && (<span>Bootstrap</span>)} */}
               
               {/* {JSON.parse(project.images).map((image) => (
                 <div>

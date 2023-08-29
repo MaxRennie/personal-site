@@ -2,10 +2,10 @@ name: Deploy new release
 
 
 on:
-  workflow_dispatch
-  # push:
-  #   tags:
-  #     - 'v*'
+  # workflow_dispatch
+  push:
+    tags:
+      - 'v*'
 
 jobs:
   deploy:

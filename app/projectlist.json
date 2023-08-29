@@ -4,28 +4,37 @@
     "name": "Rhea",
     "featured project": true,
     "category": "Graphics",
-    "sub-categories": {
-      "brand design": true,
-      "brand assets": true,
+    "subcategories": {
+      "branddesign": true,
+      "brandassets": true,
       "illustration": true,
-      "logo design": true,
-      "print design": true,
+      "logodesign": true,
+      "printdesign": true,
       "typography": true,
-      "ux/ui design": true,
-      "web design": true,
-      "web development": false,
+      "uxuidesign": true,
+      "webdesign": true,
+      "webdevelopment": false,
       "wordpress": false,
       "react": false,
       "javascript": false,
-      "node.js": false,
-      "Sass": false,
-      "Figma": true,
-      "Tailwind": false,
-      "Bootstrap": false
+      "nodejs": false,
+      "sass": false,
+      "figma": true,
+      "tailwind": false,
+      "bootstrap": false
     },
     "description": "doloribus at sed quis culpa deserunt consectetur qui praesentium\naccusamus fugiat dicta\nvoluptatem rerum ut voluptate autem\nvoluptatem repellendus aspernatur dolorem in",
-    "featimage": "/public/web1.png",
-    "images": ["", ""],
+    "featimage": ["/rhea/web1.png", "Rhea Featured Image"],
+    "images": [
+      {
+        "link": "#",
+        "alt": "sampleimage 1"
+      },
+      {
+        "link": "#",
+        "alt": "sample image 2"
+      }
+],
     "website": ""
   },
   {
@@ -53,10 +62,501 @@
       "Bootstrap": false
     },
     "description": "doloribus at sed quis culpa deserunt consectetur qui praesentium\naccusamus fugiat dicta\nvoluptatem rerum ut voluptate autem\nvoluptatem repellendus aspernatur dolorem in",
-    "featimage": [
-      "/rhea/web1.png",
-      "Rhea Featured Image"
+    "featimage": ["/rhea/web1.png", "Rhea Featured Image"],
+    "images": [
+      {
+        "link": "#",
+        "alt": "sampleimage 1"
+      },
+      {
+        "link": "#",
+        "alt": "sample image 2"
+      }
+],
+    "website": ""
+  },
+  {
+    "id": 2,
+    "name": "Rhea",
+    "featured project": true,
+    "category": "Graphics",
+    "sub-categories": {
+      "brand design": true,
+      "brand assets": true,
+      "illustration": true,
+      "logo design": true,
+      "print design": true,
+      "typography": true,
+      "ux/ui design": true,
+      "web design": true,
+      "web development": false,
+      "wordpress": false,
+      "react": false,
+      "javascript": false,
+      "node.js": false,
+      "Sass": false,
+      "Figma": true,
+      "Tailwind": false,
+      "Bootstrap": false
+    },
+    "description": "doloribus at sed quis culpa deserunt consectetur qui praesentium\naccusamus fugiat dicta\nvoluptatem rerum ut voluptate autem\nvoluptatem repellendus aspernatur dolorem in",
+    "featimage": ["/rhea/web1.png", "Rhea Featured Image"],
+    "images": [
+      {
+        "link": "",
+        "alt": ""
+      },
+      {
+        "link": "",
+        "alt": ""
+      }
     ],
+    "website": ""
+  },
+  {
+    "id": 2,
+    "name": "Rhea",
+    "featured project": true,
+    "category": "Graphics",
+    "sub-categories": {
+      "brand design": true,
+      "brand assets": true,
+      "illustration": true,
+      "logo design": true,
+      "print design": true,
+      "typography": true,
+      "ux/ui design": true,
+      "web design": true,
+      "web development": false,
+      "wordpress": false,
+      "react": false,
+      "javascript": false,
+      "node.js": false,
+      "Sass": false,
+      "Figma": true,
+      "Tailwind": false,
+      "Bootstrap": false
+    },
+    "description": "doloribus at sed quis culpa deserunt consectetur qui praesentium\naccusamus fugiat dicta\nvoluptatem rerum ut voluptate autem\nvoluptatem repellendus aspernatur dolorem in",
+    "featimage": ["/rhea/web1.png", "Rhea Featured Image"],
+    "images": [
+      {
+        "link": "",
+        "alt": ""
+      },
+      {
+        "link": "",
+        "alt": ""
+      }
+    ],
+    "website": ""
+  },
+  {
+    "id": 2,
+    "name": "Rhea",
+    "featured project": true,
+    "category": "Graphics",
+    "sub-categories": {
+      "brand design": true,
+      "brand assets": true,
+      "illustration": true,
+      "logo design": true,
+      "print design": true,
+      "typography": true,
+      "ux/ui design": true,
+      "web design": true,
+      "web development": false,
+      "wordpress": false,
+      "react": false,
+      "javascript": false,
+      "node.js": false,
+      "Sass": false,
+      "Figma": true,
+      "Tailwind": false,
+      "Bootstrap": false
+    },
+    "description": "doloribus at sed quis culpa deserunt consectetur qui praesentium\naccusamus fugiat dicta\nvoluptatem rerum ut voluptate autem\nvoluptatem repellendus aspernatur dolorem in",
+    "featimage": ["/rhea/web1.png", "Rhea Featured Image"],
+    "images": [
+      {
+        "link": "",
+        "alt": ""
+      },
+      {
+        "link": "",
+        "alt": ""
+      }
+    ],
+    "website": ""
+  },
+  {
+    "id": 2,
+    "name": "Rhea",
+    "featured project": true,
+    "category": "Graphics",
+    "sub-categories": {
+      "brand design": true,
+      "brand assets": true,
+      "illustration": true,
+      "logo design": true,
+      "print design": true,
+      "typography": true,
+      "ux/ui design": true,
+      "web design": true,
+      "web development": false,
+      "wordpress": false,
+      "react": false,
+      "javascript": false,
+      "node.js": false,
+      "Sass": false,
+      "Figma": true,
+      "Tailwind": false,
+      "Bootstrap": false
+    },
+    "description": "doloribus at sed quis culpa deserunt consectetur qui praesentium\naccusamus fugiat dicta\nvoluptatem rerum ut voluptate autem\nvoluptatem repellendus aspernatur dolorem in",
+    "featimage": ["/rhea/web1.png", "Rhea Featured Image"],
+    "images": [
+      {
+        "link": "",
+        "alt": ""
+      },
+      {
+        "link": "",
+        "alt": ""
+      }
+    ],
+    "website": ""
+  },
+  {
+    "id": 2,
+    "name": "Rhea",
+    "featured project": true,
+    "category": "Graphics",
+    "sub-categories": {
+      "brand design": true,
+      "brand assets": true,
+      "illustration": true,
+      "logo design": true,
+      "print design": true,
+      "typography": true,
+      "ux/ui design": true,
+      "web design": true,
+      "web development": false,
+      "wordpress": false,
+      "react": false,
+      "javascript": false,
+      "node.js": false,
+      "Sass": false,
+      "Figma": true,
+      "Tailwind": false,
+      "Bootstrap": false
+    },
+    "description": "doloribus at sed quis culpa deserunt consectetur qui praesentium\naccusamus fugiat dicta\nvoluptatem rerum ut voluptate autem\nvoluptatem repellendus aspernatur dolorem in",
+    "featimage": ["/rhea/web1.png", "Rhea Featured Image"],
+    "images": [
+      {
+        "link": "",
+        "alt": ""
+      },
+      {
+        "link": "",
+        "alt": ""
+      }
+    ],
+    "website": ""
+  },
+  {
+    "id": 2,
+    "name": "Rhea",
+    "featured project": true,
+    "category": "Graphics",
+    "sub-categories": {
+      "brand design": true,
+      "brand assets": true,
+      "illustration": true,
+      "logo design": true,
+      "print design": true,
+      "typography": true,
+      "ux/ui design": true,
+      "web design": true,
+      "web development": false,
+      "wordpress": false,
+      "react": false,
+      "javascript": false,
+      "node.js": false,
+      "Sass": false,
+      "Figma": true,
+      "Tailwind": false,
+      "Bootstrap": false
+    },
+    "description": "doloribus at sed quis culpa deserunt consectetur qui praesentium\naccusamus fugiat dicta\nvoluptatem rerum ut voluptate autem\nvoluptatem repellendus aspernatur dolorem in",
+    "featimage": ["/rhea/web1.png", "Rhea Featured Image"],
+    "images": [
+      {
+        "link": "",
+        "alt": ""
+      },
+      {
+        "link": "",
+        "alt": ""
+      }
+    ],
+    "website": ""
+  },
+  {
+    "id": 2,
+    "name": "Rhea",
+    "featured project": true,
+    "category": "Graphics",
+    "sub-categories": {
+      "brand design": true,
+      "brand assets": true,
+      "illustration": true,
+      "logo design": true,
+      "print design": true,
+      "typography": true,
+      "ux/ui design": true,
+      "web design": true,
+      "web development": false,
+      "wordpress": false,
+      "react": false,
+      "javascript": false,
+      "node.js": false,
+      "Sass": false,
+      "Figma": true,
+      "Tailwind": false,
+      "Bootstrap": false
+    },
+    "description": "doloribus at sed quis culpa deserunt consectetur qui praesentium\naccusamus fugiat dicta\nvoluptatem rerum ut voluptate autem\nvoluptatem repellendus aspernatur dolorem in",
+    "featimage": ["/rhea/web1.png", "Rhea Featured Image"],
+    "images": [
+      {
+        "link": "",
+        "alt": ""
+      },
+      {
+        "link": "",
+        "alt": ""
+      }
+    ],
+    "website": ""
+  },
+  {
+    "id": 2,
+    "name": "Rhea",
+    "featured project": true,
+    "category": "Graphics",
+    "sub-categories": {
+      "brand design": true,
+      "brand assets": true,
+      "illustration": true,
+      "logo design": true,
+      "print design": true,
+      "typography": true,
+      "ux/ui design": true,
+      "web design": true,
+      "web development": false,
+      "wordpress": false,
+      "react": false,
+      "javascript": false,
+      "node.js": false,
+      "Sass": false,
+      "Figma": true,
+      "Tailwind": false,
+      "Bootstrap": false
+    },
+    "description": "doloribus at sed quis culpa deserunt consectetur qui praesentium\naccusamus fugiat dicta\nvoluptatem rerum ut voluptate autem\nvoluptatem repellendus aspernatur dolorem in",
+    "featimage": ["/rhea/web1.png", "Rhea Featured Image"],
+    "images": [
+      {
+        "link": "",
+        "alt": ""
+      },
+      {
+        "link": "",
+        "alt": ""
+      }
+    ],
+    "website": ""
+  },
+  {
+    "id": 2,
+    "name": "Rhea",
+    "featured project": true,
+    "category": "Graphics",
+    "sub-categories": {
+      "brand design": true,
+      "brand assets": true,
+      "illustration": true,
+      "logo design": true,
+      "print design": true,
+      "typography": true,
+      "ux/ui design": true,
+      "web design": true,
+      "web development": false,
+      "wordpress": false,
+      "react": false,
+      "javascript": false,
+      "node.js": false,
+      "Sass": false,
+      "Figma": true,
+      "Tailwind": false,
+      "Bootstrap": false
+    },
+    "description": "doloribus at sed quis culpa deserunt consectetur qui praesentium\naccusamus fugiat dicta\nvoluptatem rerum ut voluptate autem\nvoluptatem repellendus aspernatur dolorem in",
+    "featimage": ["/rhea/web1.png", "Rhea Featured Image"],
+    "images": [
+      {
+        "link": "",
+        "alt": ""
+      },
+      {
+        "link": "",
+        "alt": ""
+      }
+    ],
+    "website": ""
+  },
+  {
+    "id": 2,
+    "name": "Rhea",
+    "featured project": true,
+    "category": "Graphics",
+    "sub-categories": {
+      "brand design": true,
+      "brand assets": true,
+      "illustration": true,
+      "logo design": true,
+      "print design": true,
+      "typography": true,
+      "ux/ui design": true,
+      "web design": true,
+      "web development": false,
+      "wordpress": false,
+      "react": false,
+      "javascript": false,
+      "node.js": false,
+      "Sass": false,
+      "Figma": true,
+      "Tailwind": false,
+      "Bootstrap": false
+    },
+    "description": "doloribus at sed quis culpa deserunt consectetur qui praesentium\naccusamus fugiat dicta\nvoluptatem rerum ut voluptate autem\nvoluptatem repellendus aspernatur dolorem in",
+    "featimage": ["/rhea/web1.png", "Rhea Featured Image"],
+    "images": [
+      {
+        "link": "",
+        "alt": ""
+      },
+      {
+        "link": "",
+        "alt": ""
+      }
+    ],
+    "website": ""
+  },
+  {
+    "id": 2,
+    "name": "Rhea",
+    "featured project": true,
+    "category": "Graphics",
+    "sub-categories": {
+      "brand design": true,
+      "brand assets": true,
+      "illustration": true,
+      "logo design": true,
+      "print design": true,
+      "typography": true,
+      "ux/ui design": true,
+      "web design": true,
+      "web development": false,
+      "wordpress": false,
+      "react": false,
+      "javascript": false,
+      "node.js": false,
+      "Sass": false,
+      "Figma": true,
+      "Tailwind": false,
+      "Bootstrap": false
+    },
+    "description": "doloribus at sed quis culpa deserunt consectetur qui praesentium\naccusamus fugiat dicta\nvoluptatem rerum ut voluptate autem\nvoluptatem repellendus aspernatur dolorem in",
+    "featimage": ["/rhea/web1.png", "Rhea Featured Image"],
+    "images": [
+      {
+        "link": "",
+        "alt": ""
+      },
+      {
+        "link": "",
+        "alt": ""
+      }
+    ],
+    "website": ""
+  },
+  {
+    "id": 2,
+    "name": "Rhea",
+    "featured project": true,
+    "category": "Graphics",
+    "sub-categories": {
+      "brand design": true,
+      "brand assets": true,
+      "illustration": true,
+      "logo design": true,
+      "print design": true,
+      "typography": true,
+      "ux/ui design": true,
+      "web design": true,
+      "web development": false,
+      "wordpress": false,
+      "react": false,
+      "javascript": false,
+      "node.js": false,
+      "Sass": false,
+      "Figma": true,
+      "Tailwind": false,
+      "Bootstrap": false
+    },
+    "description": "doloribus at sed quis culpa deserunt consectetur qui praesentium\naccusamus fugiat dicta\nvoluptatem rerum ut voluptate autem\nvoluptatem repellendus aspernatur dolorem in",
+    "featimage": ["/rhea/web1.png", "Rhea Featured Image"],
+    "images": [
+      {
+        "link": "",
+        "alt": ""
+      },
+      {
+        "link": "",
+        "alt": ""
+      }
+    ],
+    "website": ""
+  },
+  {
+    "id": 2,
+    "name": "Rhea",
+    "featured project": true,
+    "category": "Graphics",
+    "sub-categories": {
+      "brand design": true,
+      "brand assets": true,
+      "illustration": true,
+      "logo design": true,
+      "print design": true,
+      "typography": true,
+      "ux/ui design": true,
+      "web design": true,
+      "web development": false,
+      "wordpress": false,
+      "react": false,
+      "javascript": false,
+      "node.js": false,
+      "Sass": false,
+      "Figma": true,
+      "Tailwind": false,
+      "Bootstrap": false
+    },
+    "description": "doloribus at sed quis culpa deserunt consectetur qui praesentium\naccusamus fugiat dicta\nvoluptatem rerum ut voluptate autem\nvoluptatem repellendus aspernatur dolorem in",
+    "featimage": ["/rhea/web1.png", "Rhea Featured Image"],
     "images": [
       {
         "link": "",

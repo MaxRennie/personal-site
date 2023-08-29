@@ -8,9 +8,9 @@ export async function generateStaticParams() {
 }
 
 export default function Home() {
-  return (
+    return (
     <div>
-      <main className="mx-auto bg-white">
+      <main className="mx-auto bg-white lg:h-full lg:overflow-hidden">
         <div className="container mx-auto bg-white flex flex-col md:flex-row flex-wrap h-fit">
           <section className="bg-white text-black basis-1/2 lg:basis-3/4">
             <div className="flex flex-col md:pt-6 md:pr-20 px-10">
@@ -98,7 +98,6 @@ export default function Home() {
                     </span>
                   </button>
                 </a>
-ƒ
             </div>
           </section>
         </div>

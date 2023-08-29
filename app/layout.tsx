@@ -42,13 +42,14 @@ export default function ContainerBlock({
           <meta property="article:published_time" content={meta.date} />
         )}
       </Head>
-      <body className="lg:h-full lg:overflow-hidden">
+      {/* <body className="lg:h-full lg:overflow-hidden"> */}
+      <body className="">
         <Navbar />
 
         {/* <div className="md:h-screen md:overflow-hidden">
           <main className="mx-auto bg-white">
             <div className="container mx-auto bg-white md:px-10 flex flex-col md:flex-row lg:px-32 flex-wrap h-min text-black"> */}
-        <div>{children}</div>
+        <div className="pt-24">{children}</div>
         {/* </div> */}
         {/* </main> */}
         {/* </div> */}

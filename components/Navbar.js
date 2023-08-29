@@ -1,6 +1,6 @@
 export default function About() {
   return (
-    <nav>
+    <nav className="fixed bg-white z-50">
       <div className="container mx-auto px-10 pt-10 mb-2 lg:px-32">
         <div>
           <ul className="flex flex-wrap-reverse items-center">

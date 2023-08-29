@@ -7,7 +7,7 @@
   --background-start-rgb: 214, 219, 220;
   --background-end-rgb: 255, 255, 255;
 }
-
+ 
 @media (prefers-color-scheme: dark) {
   :root {
     --foreground-rgb: 255, 255, 255;
@@ -21,18 +21,3 @@ body {
   background: white;
   min-width:fit-content;
 }
-
-/* @font-face {
-  font-family: "Staatliches";
-  src: url("/fonts/Staatliches-Regular.ttf");
-} */
-/* 
-@font-face {
-  font-family: "Spline Sans";
-  src: url("/fonts/SplineSans-Regular.ttf");
-}
-
-@font-face {
-  font-family: "Spline Sans Bold";
-  src: url("/fonts/SplineSans-Bold.ttf");
-} */
